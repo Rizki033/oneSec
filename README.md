@@ -1,8 +1,8 @@
 Author: oxRizki
 
-# oneSec - Security Tools Collection
+# Version 1 🛡️
 
-A comprehensive bash-based security tools installer and manager for penetration testing and security research. Features an interactive menu system with 18+ pre-configured security tools including phishing frameworks, network scanners, OSINT tools, and more.
+![Texte alternatif](oneSec.png)
 
 ## Features
 -  18+ Security Tools Integration
