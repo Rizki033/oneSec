@@ -43,4 +43,6 @@ cd oneSec
 chmod +x oneSec.sh
 bash oneSec.sh
 ```
+### Warning
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
