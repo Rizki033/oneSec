@@ -11,7 +11,36 @@ Author: oxRizki
 -  Easy Tool Management
 -  One-Command Execution
 
-## Included Tools
-Phishing, WebCam Hacking, Subdomain Scanning, Email Bombing, DDoS Testing, IP Tracking, OSINT, Website Analysis, and more.
+## Operating System Requirements
+works on any of the following operating systems:
+• Android (Using the Termux App)
+• Linux (Debian Based Systems)
+• Unix
 
-⚠️ **Disclaimer**: For educational and authorized security testing only. Users are responsible for complying with applicable laws.
+## How to Install
+### Method 1: Quick Install
+```
+git clone https://github.com/Rizki033/oneSec.git
+cd oneSec
+chmod +x oneSec.sh
+bash oneSec.sh
+```
+### Method 2: Termux
+```
+pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/Rizki033/oneSec.git
+cd oneSec
+chmod +x oneSec.sh
+bash oneSec.sh
+```
+### Method 3: Linux
+```
+sudo apt update
+sudo apt install git
+git clone https://github.com/Rizki033/oneSec.git
+cd oneSec
+chmod +x oneSec.sh
+bash oneSec.sh
+```
+
